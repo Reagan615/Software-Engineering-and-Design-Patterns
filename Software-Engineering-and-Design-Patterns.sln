@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Software-Engineering-and-De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Software-Engineering-and-Design-Patterns_Lab01", "Software-Engineering-and-Design-Patterns_Lab01\Software-Engineering-and-Design-Patterns_Lab01.csproj", "{E07EEBA2-4C84-4F0B-8669-74661E9BCF30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Software-Engineering-and-Design-Patterns_Lab02", "Software-Engineering-and-Design-Patterns_Lab02\Software-Engineering-and-Design-Patterns_Lab02.csproj", "{1D252308-AD60-46C9-9AAC-AB4C0FB9253A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Software-Engineering-and-Design-Patterns_Lab02", "Software-Engineering-and-Design-Patterns_Lab02\Software-Engineering-and-Design-Patterns_Lab02.csproj", "{1D252308-AD60-46C9-9AAC-AB4C0FB9253A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Software-Engineering-and-Design-Patterns_Lab03", "Software-Engineering-and-Design-Patterns_Lab03\Software-Engineering-and-Design-Patterns_Lab03.csproj", "{EF7D633C-4C0F-4FCC-A7CC-E9A8C3DAF1C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1D252308-AD60-46C9-9AAC-AB4C0FB9253A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D252308-AD60-46C9-9AAC-AB4C0FB9253A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D252308-AD60-46C9-9AAC-AB4C0FB9253A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7D633C-4C0F-4FCC-A7CC-E9A8C3DAF1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7D633C-4C0F-4FCC-A7CC-E9A8C3DAF1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7D633C-4C0F-4FCC-A7CC-E9A8C3DAF1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7D633C-4C0F-4FCC-A7CC-E9A8C3DAF1C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
